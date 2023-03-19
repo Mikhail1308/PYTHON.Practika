@@ -3,7 +3,7 @@
 
 
 N=int(input('Введите число N: '))
-p=1
-while p<=N:
-    print(p,end=' ')
-    p=p*2
+M=1
+while M<=N:
+    print(M,end=' ')
+    M=M*2
